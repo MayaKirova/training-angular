@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/MayaKirova/training-angular.svg?branch=master)](https://travis-ci.org/MayaKirova/training-angular)
 
+[![Build Status](https://dev.azure.com/MKirova/Angular%20Training/_apis/build/status/MayaKirova.training-angular?branchName=master)](https://dev.azure.com/MKirova/Angular%20Training/_build/latest?definitionId=1&branchName=master)
+
 # training-angular
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
