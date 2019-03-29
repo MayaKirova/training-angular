@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MayaKirova/training-angular.svg?branch=master)](https://travis-ci.org/MayaKirova/training-angular)
+
 # training-angular
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.3.
